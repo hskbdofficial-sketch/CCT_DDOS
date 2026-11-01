@@ -71,7 +71,7 @@ On first launch, missing packages are detected and installed automatically.
 For root/TIER-1 capabilities:
 
 ```bash
-sudo python3 cct.py
+sudo python3 CCT.py
 ```
 
 ---
